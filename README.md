@@ -11,12 +11,12 @@
 
 - 📫 How to reach me **charapalepranod@gmail.com**
 
-- ⚡ Fun fact **I am funny 😂**
+- ⚡ Fun fact **I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranod-charapale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranod-charapale" height="30" width="40" /></a>
-<a href="https://instagram.com/charapalepranod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charapalepranod" height="30" width="40" /></a>
+<a href="https://instagram.com/pranod.pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charapalepranod" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/charapaleprano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="charapaleprano" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/charapalepranod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="charapalepranod" height="30" width="40" /></a>
 </p>
